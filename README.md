@@ -1,1 +1,1 @@
-# FIM
+# Frequent Itemset Mining
